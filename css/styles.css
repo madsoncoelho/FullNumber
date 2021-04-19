@@ -2,6 +2,10 @@
     width: 500px;
 }
 
+#currentNumber {
+    width: 5ch;
+}
+
 #fullNumber {
-    width: 200px;
+    width: 30ch;
 }
